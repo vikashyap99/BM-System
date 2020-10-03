@@ -1,1 +1,3 @@
 # BM-System
+
+TheBankManagementSystemisanapplicationformaintainingaperson’saccountinabank.Inthisproject,WetriedtoshowtheworkingofabankingaccountsystemandcoverthebasicfunctionalityofaBankManagementSystem
